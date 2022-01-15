@@ -1,0 +1,9 @@
+python exp3.py efficientnet_b0
+python exp3.py efficientnet_b1
+python exp3.py efficientnet_b2
+python exp3.py efficientnet_b3
+python exp3.py efficientnet_b4
+python exp3.py efficientnet_b5
+python exp3.py efficientnet_b6
+python exp3.py efficientnet_b7
+python exp3.py efficientnet_b8

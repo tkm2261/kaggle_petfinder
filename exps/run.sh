@@ -1,0 +1,10 @@
+python exp1.py swin_base_patch4_window12_384
+python exp1.py swin_base_patch4_window7_224
+python exp1.py swin_large_patch4_window12_384
+python exp1.py swin_large_patch4_window7_224
+python exp1.py swin_small_patch4_window7_224
+python exp1.py swin_tiny_patch4_window7_224
+python exp1.py swin_base_patch4_window12_384_in22k
+python exp1.py swin_base_patch4_window7_224_in22k
+python exp1.py swin_large_patch4_window12_384_in22k
+python exp1.py swin_large_patch4_window7_224_in22k
